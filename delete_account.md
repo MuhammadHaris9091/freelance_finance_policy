@@ -35,4 +35,4 @@ Account deletion requests are typically processed immediately or within **30 day
 
 If you have any questions about account deletion or your personal data, please contact us at:
 
-**Email:** [support@yourdomain.com](mharis9091@gmail.com)
+**Email:** mharis9091@gmail.com
